@@ -1,0 +1,12 @@
+this text is ignored, because its outside the context of a date
+@2014-04-26 
+watched a bunch of videos on golang +2
+started writing the lexer +1
+@2014-04-27 
+got the lexer making items of text and duration +1
+@2014-04-28 
+added date items to the lexer +0.5
+@2014-05-02
+worked +1 on some made up ticket #42
+@2014-05-03 worked +2 and +3 some more on that #42 ticket
+@2014-05-03 worked +5 on ticket #44
